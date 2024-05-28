@@ -58,4 +58,4 @@ Open a Pull Request
 # Contact
 Name: Aariz Quadir
 Email: aarizquadir@example.com
-Project Link: https://github.com/AarizQuadir/weatherApp
+Project Link: https://aarizquadir.github.io/weatherapp/
